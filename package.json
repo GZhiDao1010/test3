@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olewaHHH/blog-demo.git"
+    "url": "git+https://github.com/GZhiDao1010/test3.git"
   },
   "author": "handsome_hou",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olewaHHH/blog-demo/issues"
+    "url": "https://github.com/GZhiDao1010/test3/issues"
   },
-  "homepage": "https://github.com/olewaHHH/blog-demo#readme",
+  "homepage": "https://github.com/GZhiDao1010/test3#readme",
   "devDependencies": {
     "vuepress": "^0.14.8"
   }
